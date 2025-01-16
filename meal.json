@@ -1,0 +1,10 @@
+{
+    "name": "Lunch",
+    "data": {
+        "starter": "Caesar's Salad",
+        "main": "Cheesburger with Fries",
+        "dessert": "Mousse au Chocolat",
+        "vegan": false,
+        "calories": 1325
+    }
+}
